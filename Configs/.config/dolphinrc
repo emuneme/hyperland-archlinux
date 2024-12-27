@@ -1,0 +1,29 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display,dolphin_directorysizemode.upd:convert-directorysizecount-to-directorysizemode
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[ExtractDialog]
+1920x1080 screen: Height=540
+1920x1080 screen: Width=1280
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+EditableUrl=true
+ShowFullPath=true
+Version=202
+ViewPropsTimestamp=2024,5,9,10,51,0.442
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=cursorthumbnail,exrthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs

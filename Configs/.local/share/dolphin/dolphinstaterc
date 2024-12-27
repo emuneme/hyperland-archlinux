@@ -1,0 +1,28 @@
+[CreateDialog]
+LastMimeType=application/zip
+
+[General]
+CommandBarLastUsedActions=
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+
+[Open-with settings]
+CompletionMode=1
+History=mpv,image,gwenview,okular
+
+[SettingsDialog]
+1920x1080 screen: Height=584
+1920x1080 screen: Width=726
+1920x1080 screen: Window-Maximized=true
+
+[State]
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1920
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=50
+1920x1080 screen: YPosition=126
+2 screens: Window-Maximized=true
+DP-2=DP-2
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAEAAAADf/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAqAAAAnwAAAAoBAAAJ+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAqAAADfwAAAF0BAAAJAAAAAQAAAL4AAAPP/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACoAAAPPAAAACgEAAAkAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAAJAAACpgAAA38AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
